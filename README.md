@@ -10,7 +10,7 @@ La siguiente imagen muestra los archivos JAR utilizados en la solución:
 
 ![JARs en el chache del entorno](https://github.com/user-attachments/assets/52d88c4c-ac91-42d7-ba43-ae049d4c35b3)
 
-## **Creacion de la table en base de datos**
+## **Creacion de la tabla en la base de datos**
 
 ```
 CREATE TABLE WIKJ."T_WIKJ_HAB_PRUEBAFINAL"(
@@ -67,4 +67,4 @@ Se presenta un caso de intento de registro con nuip ya existente en la base de d
 3. IntelliJ IDEA  
 4. Postman  
 5. Maven 3.5.3  
-6. ASO  
+6. APX
