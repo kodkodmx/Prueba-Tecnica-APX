@@ -10,7 +10,7 @@ La siguiente imagen muestra los archivos JAR utilizados en la solución:
 
 ![JARs en el chache del entorno](https://github.com/user-attachments/assets/52d88c4c-ac91-42d7-ba43-ae049d4c35b3)
 
-## **Creacion de table nela base de datos**
+## **Creacion de la table en base de datos**
 
 ```
 CREATE TABLE WIKJ."T_WIKJ_HAB_PRUEBAFINAL"(
